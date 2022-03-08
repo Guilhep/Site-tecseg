@@ -2,14 +2,13 @@
     "name": "Tecseg Monitoramento", 
     "short_name": "Tecseg", 
     "lang": "pt-BR", 
-    "start_url": "https://guilhep.github.io/site-tecseg/", 
-    " display": "standalone", 
+    "display": "standalone", 
     "theme_color": "#cb3129", 
     "icons": [ 
       { 
         "src": "images/logoteseg.png", 
-        "sizes ": "190x190", 
-        "type": "img.png" 
+        "sizes": "190x190", 
+        "type": "logoteseg.png" 
       } 
     ] 
   }
