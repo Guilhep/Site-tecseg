@@ -427,6 +427,7 @@ header .container nav ul li a {
   justify-content: space-between;
   gap: 15px;
 }
+/*
 .why-choose .features .feature {
   width: 280px;
   margin-top: 50px;
@@ -434,7 +435,7 @@ header .container nav ul li a {
   animation: fadeInUp;
   animation-duration: 2s;
 }
-
+*/
 @media (max-width: 767.5px) {
   .why-choose .features .feature {
     width: 100%;
