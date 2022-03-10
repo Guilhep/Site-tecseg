@@ -1,14 +1,18 @@
-{ 
-    "name": "Tecseg Monitoramento", 
-    "short_name": "Tecseg", 
-    "lang": "pt-BR", 
-    "display": "standalone", 
-    "theme_color": "#cb3129", 
-    "icons": [ 
-      { 
-        "src": "images/logoteseg.png", 
-        "sizes": "190x190", 
-        "type": "logoteseg.png" 
-      } 
-    ] 
-  }
+{
+  "lang": "pt",
+  "dir": "ltr",
+  "name": "Tecseg Monitoramento",
+  "short_name": "Tecseg",
+  "icons": [
+    {
+      "src": "\/images\/tecseg.svg",
+      "sizes": "192x192",
+      "type": "image\/svg"
+    }
+  ],
+  "theme_color": "#1a1a1a",
+  "background_color": "#1a1a1a",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "natural"
+}
